@@ -1,3 +1,6 @@
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/636cd492-8836-43ae-b1b7-feda18d7d5d6" />
+
+
 # 🔐 Arduino Automatic Login System (아두이노 자동 로그인 장치)
 
 > **High school 2nd year project archive (2019)**
